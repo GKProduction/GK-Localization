@@ -1,0 +1,21 @@
+{
+	"game": {
+		"hey": "ХЭЙ ЙОУ, %character%, КАК ДЕЛА?\n\nРад видеть тебя!",
+		"stats": "У тя %coins% манет."
+	},
+	"language": {
+		"mslcid": "1049",
+		"name": "Прикольный"
+	},
+	"menu": {
+		"change_language": "Переехать в другую страну",
+		"game_name": "СУПА-ДУПА ИГРА 2",
+		"quit": "Прочь",
+		"select_character": "Выбери перса",
+		"start": "Погнали"
+	},
+	"names": {
+		"ivan": "Ваня",
+		"maria": "Маша"
+	}
+}
